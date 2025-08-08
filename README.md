@@ -27,7 +27,7 @@
 - Java 21  
 - Spring Boot 3  
 - Spring Data JPA  
-- H2 / MySQL Database  
+- MySQL Database  
 - Maven  
 - Postman (for API testing)
 
